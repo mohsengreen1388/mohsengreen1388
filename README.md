@@ -1,7 +1,7 @@
 # Hi 👋, I am Green a programmer who enjoys Linux and Golang and C 💻️ 🖥️
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/4482755.png" height="400"> </img>  
+  <img src="https://wallpaperaccess.com/full/4482755.png" height="400" width="90%"> </img>  
 </div>
 
 <h3 align="center">A passionate Backend developer from Iran</h3>
