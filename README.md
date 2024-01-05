@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3 align="center">A passionate Backend developer from Iran <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsengreen1388&label=Profile%20views&color=0e75b6&style=flat" alt="mohsengreen1388" /> </p></h3>
+  <h3 align="center">A passionate Backend developer from Iran  <img src="https://komarev.com/ghpvc/?username=mohsengreen1388&label=Profile%20views&color=0e75b6&style=flat" alt="mohsengreen1388" /></h3>
   <img src="https://wallpaperaccess.com/full/4482736.png" height="270vh" width="90%"> </img>  
 </div>
 
