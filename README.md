@@ -1,6 +1,5 @@
-# I am Green a programmer who enjoys Linux and Golang and C 💻️ 🖥️
+# Hi 👋, I am Green a programmer who enjoys Linux and Golang and C 💻️ 🖥️
 
-<h1 align="center">Hi 👋, I'm Green</h1>
 <h3 align="center">A passionate Backend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsengreen1388&label=Profile%20views&color=0e75b6&style=flat" alt="mohsengreen1388" /> </p>
